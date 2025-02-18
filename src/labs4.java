@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class labs4 {
     Scanner sc = new Scanner(System.in);
+     static int income = 0;
+
 
     static int[] price = { 75000, 50000, 60000, 10000 };
     static String[] flower = {"Aglonema", "Keladi", "Alocasia", "Mawar"}; 
@@ -37,7 +39,6 @@ public class labs4 {
        
         System.out.println(" income of each branch if all the flowers are sold out.");
         for (int i = 0; i < flowerStock.length; i++){
-            int income = 0;
             for (int j = 0; j< flowerStock[i].length; j++){
                 income += flowerStock[i][j] * price[j];
             }
@@ -45,5 +46,6 @@ public class labs4 {
             
         }
     }
+    
     
 }
