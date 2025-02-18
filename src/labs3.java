@@ -44,11 +44,11 @@ public class labs3 {
         System.out.println("====================================================================");
         System.out.println("\t\tHasil Konversi Nilai");
         System.out.println("====================================================================");
-        System.out.printf("%-30s%-15s%-15s%-15s\n", "Mata Kuliah", "Nilai Angka", "Nilai Huruf", "Bobot Nilai");
+        System.out.printf(" %-30s         %-15s     %-15s     %-15s\n", "Mata Kuliah", "Nilai Angka", "Nilai Huruf", "Bobot Nilai");
         double totalBobot = 0.0;
 
         for (int i = 0; i < mataKuliah.length; i++) {
-            System.out.printf("%-30s%-15.2f%-15s%-15.2f\n", mataKuliah[i], nilaiAngka[i], nilaiHuruf[i], bobot[i]);
+            System.out.printf(" %-30s         %-15.2f       %-15s      %-15.2f\n", mataKuliah[i], nilaiAngka[i], nilaiHuruf[i], bobot[i]);
             totalBobot += bobot[i];
             System.out.println();
         }
