@@ -1,3 +1,4 @@
+package jobsheet1;
 import java.util.Scanner;
 public class labs4 {
     Scanner sc = new Scanner(System.in);

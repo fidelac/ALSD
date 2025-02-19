@@ -11,7 +11,8 @@
 
 The solution is implemented in Pemilihan1.java, and below is screenshot of the result.
 
-![Screenshot](SELECTION.png)
+![Screenshot](./img/jobsheet1/SELECTION.png)
+
 
 **Brief explanation:** There are 4 main step: 
 1. Input all grades
@@ -22,7 +23,7 @@ The solution is implemented in Pemilihan1.java, and below is screenshot of the r
 
 ## 2.2.1. Lopping Solution
 
-![Screenshot](LOOPING.png)
+![Screenshot](./img/jobsheet1/LOOPING.png)
 
 **Brief explanation**  There are 5 main step:
 1. Input NIM
@@ -34,7 +35,7 @@ The solution is implemented in Pemilihan1.java, and below is screenshot of the r
 
 ## 2.3.1. Array Solution
 
-![Screenshot](ARRAY.png)
+![Screenshot](./img/jobsheet1/ARRAY.png)
 
 **Brief explanation**  There are 4 main step:
 1. Input all grades
@@ -45,7 +46,7 @@ The solution is implemented in Pemilihan1.java, and below is screenshot of the r
 
 ## 2.4.1. Function Solution
 
-![Screenshot](FUNCTION.png)
+![Screenshot](./img/jobsheet1/FUNCTION.png)
 
 **Brief explanation**  There are 5 main step:
 1. Variable Initialization and Data Setup
@@ -57,7 +58,7 @@ The solution is implemented in Pemilihan1.java, and below is screenshot of the r
 
 ## 3.1.1. Assignment 1
 
-![Screenshot](ASSIGNMENT1.png)
+![Screenshot](./img/jobsheet1/ASSIGNMENT1.png)
 
 **Brief explanation**  There are 5 main step:
 1. Define Data Arrays
@@ -69,7 +70,7 @@ The solution is implemented in Pemilihan1.java, and below is screenshot of the r
 
 ## 3.2.1. Assignment 2
 
-![Screenshot](ASSIGNMENT2.png)
+![Screenshot](./img/jobsheet1/ASSIGNMENT2.png)
 
 **Brief explanation**  There are 10 main step:
 1. Input cube side length
@@ -86,7 +87,7 @@ The solution is implemented in Pemilihan1.java, and below is screenshot of the r
 
 ## 3.2.1. Assignment 3
 
-![Screenshot](ASSIGNMENT3.png)
+![Screenshot](./img/jobsheet1/ASSIGNMENT3.png)
 
 **Brief explanation**  There are main step:
 1. Input Course
