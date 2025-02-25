@@ -24,6 +24,7 @@ public class Lecturer13 {
     }
 
     void print() {
+        System.out.println("----------------------------------------------");
         System.out.println("Lecturer ID : " + lecturerID);
         System.out.println("Name : " + name);
         System.out.println("Status : " + (status ? "Active" : "Non-Active"));
