@@ -82,3 +82,32 @@ The effect :
     --> [Code](ArrayTriangle.java)
 
 ## 1.5 Assignments
+[Lecturer13](Lecturer13.java)
+
+    - Store lecturer attribute data
+    - attribute: id, name, gender, age for stores lecturer data
+    - constructor : use to initialise a new lecturer object with its complete data.
+
+[LecturerDemo13](LecturerDemo13.java)
+
+    - run program and manage input from user
+    - input data : use Scanner for in fill lecturer data
+    - array of object : Lecturer13[] lecturerArray for stores several object Lecturer13
+    - call method : called method in LecturerData13 to process and display data
+
+[LecturerData13](LecturerData13.java)
+
+    - showAllLecturerData : display all lecturer data for array
+    - countLecturerByGender : calculating the number of lecturer based on gender
+    - averageLecturerAgeByGender : calculating average age of male and female lecturer
+    - showOldestLecturerInfo : find and display oldest lecturer
+    - showYoungestLecturerInfo : find and display youngest lecturer
+
+1. user fill in/enter the number and details of lecturer in LecturerDemo13
+2. lecturer data stores as object in the Lecturer13[] 
+3. data processed by LecturerData13
+    - show in its entirety
+    - the number is calculated based on gender
+    - average age was calculate
+    - looking for the oldest and youngest lecturer
+4. result are displayed to the console.
