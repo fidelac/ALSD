@@ -95,7 +95,8 @@ GPA: 3.5
         - All attributes will have empty or zero values.
         - Call print() to display initial data
     - Create a Lecturer13 object using the parameterized constructors
-        - ID: "L134G4S", Status: true(active), startYear: 2010, ExpertiseField: "Computer Science"
+        - ID: "L134G4S", Name: "Bagas"  Status: false(non-active), startYear: 2010, ExpertiseField: "Computer Science"
+        - ID: "L4N1S", Name:"Anis", Status true(active), startYear: 2020, ExpertiseField "Information System";
         - Call print() to display the lecturer details
      - Modify Lecturer13 data
         - Updates the status to inactive using setStatus(false).
