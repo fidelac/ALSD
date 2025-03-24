@@ -81,7 +81,8 @@ The effect :
     --> [Code](Triangle.java)
     --> [Code](ArrayTriangle.java)
 
-## 1.5 Assignments
+## 1.5 Assignments\
+**Answer**
 [Lecturer13](Lecturer13.java)
 
     - Store lecturer attribute data
