@@ -5,7 +5,7 @@
 | Kelas | TI - 1I |
 | Repository | [link] (https://github.com/fidelac/ALSD.git) |
 
-# Labs #7
+# Labs #10
 ## Question 2.1.3
 1. Role of Stack in Assignment Management System
 The stack data structure is used to manage student assignments in a Last-In-First-Out (LIFO) manner. This mimics the real-world scenario where a lecturer grades assignments starting from the most recently submitted one (top of the stack). A stack was chosen over a queue or list because:

@@ -35,7 +35,7 @@
 }
     - this condition checks if the next posotion of rear equals front, whixh indicates the queue is full.
     
-7. ![Screenshot] (../img/jobsheet11/Modify7.png) ![Screenshot](Modify7-2.png) 
+7. ![alt text](Modify7.png) 
     This ensures the program halts execution when an overflow or underflow occurs
 
 
@@ -56,8 +56,8 @@ This change is important because is allows studentQueue to handle ma=ore complex
 3.  - Queue, front is initializwed to -1 to indicate that the queue is empty. this is cammon practice when using a non circular queue
     - StudentQueue, front is initialized to 0 because it likely use a circular queue implementation, where front always points to the first valid element.
 
-4.  ![Screenshot](<Screenshot 2025-05-13 182312.png>) 
-    ![Screenshot](<Screenshot 2025-05-13 182355.png>)
+4.  ![alt text](<Screenshot 2025-05-13 182312.png>)
+    ![alt text](<Screenshot 2025-05-13 182355.png>) 
         - (size == 0) this method checks if the queue is empty
         - if the queue is not empty, it retrieves and display the element at the rear index of the queue
         - This useful for inspecting the last element added to the queue
@@ -78,7 +78,7 @@ This change is important because is allows studentQueue to handle ma=ore complex
 - Menu Option
     - 1. Register Student (Enqueue)
         - user is asked to input data
-        - ![Screenshot](1.5.png) ![Screenshot](1.1.png) ![Screenshot](1.2.png) ![Screenshot](1.3.png) ![Screenshot](1.4.png)
+        - ![Screenshot](../1.5.png) ![Screenshot](1.1.png) ![Screenshot](1.2.png) ![Screenshot](1.3.png) ![Screenshot](1.4.png)
         - data will be saved to the queue
 
     - 2. Process KRS Approval (Dequeue)
